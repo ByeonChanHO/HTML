@@ -17,8 +17,16 @@ HTML : HyperText Markup Language
 ```
 **메타데이터 :** HTML의 정보(data)이며 웹에서는 직접적으로 보이지 않는 정보
 
-예시 : `<title>`, `<sytle>`, `<meta>`, `<link>`, `<script>`, `<base>` 등이 있다.
+메타데이터 예시 : `<title>`, `<sytle>`, `<meta>`, `<link>`, `<script>`, `<base>` 등이 있다.
 
 **title 추가 설명 :** 웹브라우저 툴바(toolbar)에 표시되는 것을 말한다.
 
+## 요소 구조
+HTML element(요소)는 시작태그로 시작해서 종료 태고로 끝난다.
+
+HTML element의 attribute은 해당 요소에 대한 추가적인 정보 제공
+
+
+
 참조 : http://www.tcpschool.com/html/html_intro_basicStructure
+이미지 출처 : http://www.tcpschool.com/html/html_intro_elementStructure
