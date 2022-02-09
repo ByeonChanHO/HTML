@@ -18,3 +18,7 @@ HTML : HyperText Markup Language
 **메타데이터 :** HTML의 정보(data)이며 웹에서는 직접적으로 보이지 않는 정보
 
 예시 : `<title>`, `<sytle>`, `<meta>`, `<link>`, `<script>`, `<base>` 등이 있다.
+
+**title 추가 설명 :** 웹브라우저 툴바(toolbar)에 표시되는 것을 말한다.
+
+참조 : http://www.tcpschool.com/html/html_intro_basicStructure
