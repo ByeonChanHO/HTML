@@ -5,6 +5,7 @@
 <p>단락2</p>
 ```
 각 `<p>` 위아래로 약간의 여백이 들어간다.
+
 ![2](https://user-images.githubusercontent.com/38696775/153365192-453fdd07-2d75-47d4-8cfe-f23c150f28df.png)
 
 
