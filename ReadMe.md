@@ -27,7 +27,9 @@ HTML element(요소)는 시작태그로 시작해서 종료 태고로 끝난다.
 HTML element의 attribute은 해당 요소에 대한 추가적인 정보 제공
 ![화면 캡처 2022-02-10 051052](https://user-images.githubusercontent.com/38696775/153282427-1b8823df-005f-46db-b14b-d0e5de8795b2.png)
 
-
+### 주의점
++ attribute를 적을 때는 소문자로 적는 것이 좋다.
++ Attribute의 value은 항상 ""를 써서 나타내자.
 
 참조 : http://www.tcpschool.com/html/html_intro_basicStructure
 이미지 출처 : http://www.tcpschool.com/html/html_intro_elementStructure
