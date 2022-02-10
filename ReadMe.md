@@ -32,4 +32,5 @@ HTML element의 attribute은 해당 요소에 대한 추가적인 정보 제공
 + Attribute의 value은 항상 ""를 써서 나타내자.
 
 참조 : http://www.tcpschool.com/html/html_intro_basicStructure
+
 이미지 출처 : http://www.tcpschool.com/html/html_intro_elementStructure
