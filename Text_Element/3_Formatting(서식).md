@@ -64,3 +64,6 @@ superscript, subscript 로 수학공식에서 제곱과 변수 번호 표현할 
 
 ![6](https://user-images.githubusercontent.com/38696775/153404506-d74a5462-d774-43ff-ae45-959e69d3ea29.png)
 
+
+참조 : http://www.tcpschool.com/html/html_text_formatting
+
