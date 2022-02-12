@@ -17,6 +17,9 @@ HTML5부터는 CSS로 배경색을 바꾸기에 이를 통해 바꿔보겠다.
 </style>123
 ```
 
+![1](https://user-images.githubusercontent.com/38696775/153706728-cdb74b15-0eac-4c52-8244-937096257a04.png)
+
+
 body 태그는 배경색이 lime으로 나오도록 한다.
 h1 의 배경색은 빨간색으로 설정
 p 의 배경색은 파란색으로 설정.
