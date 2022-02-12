@@ -50,3 +50,5 @@ attribute가 있는 요소만 스타일이 적용이 된다.
 
 ![5](https://user-images.githubusercontent.com/38696775/153706015-5c0a6e51-100b-4c85-ba5f-5a210088af8f.png)
 
+
+참조 : http://www.tcpschool.com/html/html_basic_styles
