@@ -27,6 +27,11 @@
 <iframe name="myframe" style="width:50%; height: 330px"></iframe>
 ```
 
+
+![1](https://user-images.githubusercontent.com/38696775/153709133-a9cdf0e1-870f-44fd-b3c3-25e2a3785098.png)
+
+(이미 방문해서 색깔이 방문해진 상태가 되었습니다.)
+
 + _blank : 새창이나 새 탭으로 연결된 문서 오픈
 + _self : 현재 frame(프레임, 창)에서 오픈 (기본 설정으로 되어 있음)    
 + _parent : 부모 frame에서 오픈
@@ -58,6 +63,10 @@ CSS 로 설정을 해야한다.
 </style>
 
 ```
+
+![2](https://user-images.githubusercontent.com/38696775/153709155-2d614d58-8c76-4f65-91f6-c0a1a47f31b7.png)
+
+(이미 방문해서 색깔이 방문해진 상태가 되었습니다.)
 
 
 ## 페이지 책갈피
