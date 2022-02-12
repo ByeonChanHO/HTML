@@ -38,6 +38,9 @@ W3C에서 정의한 16가지
 
 ```
 
+![1](https://user-images.githubusercontent.com/38696775/153706406-4ff978ba-d3de-4a30-ae79-bf22fbfa6d40.png)
+
+
 현재는 140개 색상 모두 지원하는데 검색하길 바란다.
 
 ## RGB 색상값으로 표현
@@ -46,10 +49,15 @@ W3C에서 정의한 16가지
 <h1 style="color:rgb(0,0,255)">RGB 색상값 파란색</h1>
 ```
 
+![2](https://user-images.githubusercontent.com/38696775/153706408-ba546402-b8e3-44c1-95e8-d11ec6a588a8.png)
+
 ## 16진수 색상값으로 표현
 
 ```html
 <h1 style="color:#0000FF">16진수 색상값 파란색</h1>
 ```
+
+![3](https://user-images.githubusercontent.com/38696775/153706410-b602b3f0-cf10-4f0d-b33e-a3ba1e8ed95f.png)
+
 
 참조 : http://www.tcpschool.com/html/html_basic_colors
