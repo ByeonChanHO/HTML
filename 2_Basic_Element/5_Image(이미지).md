@@ -16,6 +16,8 @@
 <img src="image.png" alt = "안나오네">
 ```
 
+![1](https://user-images.githubusercontent.com/38696775/153711231-32fad242-9534-4149-abf5-22dba565d40d.png)
+
 
 ## 이미지 크기 설정
 
@@ -31,6 +33,7 @@
 ```html
 <img src="image.png" alt="안나오네" style="width:320px; height:320px">
 ```
+
 
 + ### width 와 height attribute 을 사용하여 이미지 크기 변경
 
@@ -49,6 +52,9 @@
 </style>
 ```
 
+![2](https://user-images.githubusercontent.com/38696775/153711235-2b67e185-b24c-4dc7-add1-0351b5fe578f.png)
+
+
 ## 이미지 테두리 설정
 
 border attribute를 이용하여 테두리 사용여부와 굵기를 설정한다.
@@ -58,7 +64,10 @@ border attribute를 이용하여 테두리 사용여부와 굵기를 설정한�
 <img src="image.png" alt="안나오네" style ="width:320px; height:320px; border: 3px solid black">
 ```
 
-## 이미지 링크 만들기
+![3](https://user-images.githubusercontent.com/38696775/153711240-d822231f-bdac-447e-b124-7fa0db08b2ae.png)
+
+
+## 이미지 링크 만들기(하이퍼링크)
 
 `<a>` 를 사용하면 된다.
 
